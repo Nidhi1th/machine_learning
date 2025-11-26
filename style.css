@@ -1,0 +1,19 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+
+
+.logotext {
+    font-weight: bolder;
+    font-size: 18px;
+}
+
+nav{
+    padding: 12px 15x;
+    display: flex;
+    align-items:center;
+    background-color: black;
+    color: White;
+}
